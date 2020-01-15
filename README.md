@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/rayliu1984/calculator/_apis/build/status/RayLiu1106.calculator?branchName=master)](https://dev.azure.com/rayliu1984/calculator/_build/latest?definitionId=6&branchName=master)
+[![Build Status](https://dev.azure.com/rayliu1984/calculator/_apis/build/status/RayLiu1106.calculator?branchName=master&jobName=Job)](https://dev.azure.com/rayliu1984/calculator/_build/latest?definitionId=6&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 
